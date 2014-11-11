@@ -7,6 +7,7 @@ Usage
 
 1. Create an input form for the search function
 Example (Bootstrap 3):
+'''HTML
 <nav>
 <form role="search" class="navbar-form">
     <div class="form-group has-feedback">
@@ -15,9 +16,10 @@ Example (Bootstrap 3):
     </div>
 </form>
 </nav>
-
+'''
 2. Create the list within a section block called search
 Example:
+'''HTML
   <section class="search">
     <div class="panel widget">
       <ul class="list-group">
@@ -28,8 +30,9 @@ Example:
       </ul>
     </div>
   </section>
-
+'''
 3. Include searchlist.js at the bottom of your page
 Example:
-  <script src="app/js/searchlist.js"></script>
-
+  '''HTML
+	<script src="app/js/searchlist.js"></script>
+  '''
