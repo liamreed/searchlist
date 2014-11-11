@@ -5,7 +5,7 @@ A small piece of JS to search through a list
 
 Usage
 
-1 Create an input form for the search function
+<b>1 Create an input form for the search function</b>
 
 Example (Bootstrap 3):
 ```
@@ -18,7 +18,7 @@ Example (Bootstrap 3):
 </form>
 </nav>
 ```
-2 Create the list within a section block called search
+<b>2 Create the list within a section block called search</b>
 
 Example:
 ```
@@ -33,7 +33,7 @@ Example:
     </div>
   </section>
   ```
-3 Include searchlist.js at the bottom of your page
+<b>3 Include searchlist.js at the bottom of your page</b>
 
 Example:
 ```
