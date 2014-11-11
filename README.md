@@ -1,9 +1,8 @@
 searchlist
 ==================================================
 A small piece of JS to search through a list
-==================================================
 
-Usage
+Usage:
 
 <b>1 Create an input form for the search function</b>
 
