@@ -7,7 +7,7 @@ Usage
 
 1. Create an input form for the search function
 Example (Bootstrap 3):
-<code><pre>
+'''
 <nav>
 <form role="search" class="navbar-form">
     <div class="form-group has-feedback">
@@ -16,7 +16,7 @@ Example (Bootstrap 3):
     </div>
 </form>
 </nav>
-<pre></code>
+'''
 2. Create the list within a section block called search
 Example:
   <section class="search">
