@@ -6,6 +6,7 @@ A small piece of JS to search through a list
 Usage
 
 1. Create an input form for the search function
+
 Example (Bootstrap 3):
 ```
 <nav>
@@ -18,6 +19,7 @@ Example (Bootstrap 3):
 </nav>
 ```
 2. Create the list within a section block called search
+
 Example:
 ```
   <section class="search">
@@ -32,6 +34,7 @@ Example:
   </section>
   ```
 3. Include searchlist.js at the bottom of your page
+
 Example:
 ```
 	<script src="app/js/searchlist.js"></script>
