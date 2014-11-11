@@ -1,6 +1,6 @@
 searchlist
 ==================================================
-A small piece of JS to search through a list
+A simple JS search script to search through a list of items
 
 Usage:
 
